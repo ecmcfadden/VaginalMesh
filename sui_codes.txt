@@ -1,0 +1,50 @@
+medcode	readcode	readterm
+15918	1593	H/O: stress incontinence
+5196	16F..00	Double incontinence
+109624	16F0.00	Functional urinary and faecal incontinence
+6161	1A23.00	Incontinence of urine
+110001	1A23000	Functional urinary incontinence
+1929	1A24.00	Stress incontinence
+5844	1A24.11	Stress incontinence - symptom
+5959	1A25.00	Urgency
+583	1A25.11	Urgency of micturition
+3887	1A26.00	Urge incontinence of urine
+93952	1A27.00	Urge to pass urine again shortly after finishing voiding
+20728	317A.00	Pad test for incontinence
+13424	394..11	Bladder-incontinence assessmnt
+13423	394..12	Bladder- continence assessment
+13421	3940	Bladder: incontinent
+40789	39H..00	Continence assessment
+49417	39H0.00	Continence reassessment
+29039	679H.00	Health education - continence
+29040	679H.11	Promotion of continence
+98767	7B33800	Insertion retropubic device stress urinary incontinence NEC
+94021	7B33C00	Insertion retropubic dev fem stress urinary incontinence NEC
+2739	8C14.00	Incontinence care
+12138	8C14.11	Continence care
+30981	8D7..00	Urinary bladder control
+17637	8D7..12	Incontinence control
+48601	8D71.00	Incontinence control
+47963	8D7Z.00	Urinary bladder control NOS
+9020	8E97.00	Bladder training
+29192	8H7w.00	Referral to continence nurse
+25899	8HTX.00	Referral to incontinence clinic
+106548	9NgY.00	Continence care equipment available at home
+94673	9Nl8.00	Seen by continence nurse
+3182	K198.00	Stress incontinence
+17620	K586.00	Stress incontinence - female
+52763	Kyu5A00	[X]Other specified urinary incontinence
+107787	M129500	Incontinence-associated dermatitis
+7649	R002400	[D]Micturition syncope
+3283	R083.00	[D]Incontinence of urine
+31220	R083100	[D]Urethral sphincter incontinence
+17320	R083200	[D] Urge incontinence
+15400	R083z00	[D]Incontinence of urine NOS
+8028	R086200	[D] Urgency of micturition
+73228	Ryu4000	[X]Other difficulties with micturition
+46614	Z1J..00	Procedures to aid continence
+45495	Z9EA.00	Provision of incontinence appliance
+45492	ZL22400	Under care of continence nurse
+25901	ZL62400	Referral to continence nurse
+22095	ZLA2400	Seen by continence nurse
+43234	ZV65900	[V] Admission for bladder training

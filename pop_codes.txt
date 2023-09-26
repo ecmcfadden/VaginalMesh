@@ -1,0 +1,37 @@
+medcode	readcode	readterm
+9803	1594	H/O: genital prolapse
+28602	7D17.00	Repair of vaginal prolapse and amputation of cervix uteri
+69708	7D17y00	Repair of vaginal prolapse & amputation of cervix uteri OS
+15703	7D17z00	Repair of vaginal prolapse & amputation of cervix uteri NOS
+11863	7D18.00	Other repair of vaginal prolapse
+18606	7D18y00	Other specified other repair of vaginal prolapse
+28040	7D18z00	Other repair of vaginal prolapse NOS
+6819	K51..00	Genital prolapse
+1903	K510.00	Vaginal wall prolapse without uterine prolapse
+211	K510000	Cystocele without uterine prolapse
+25278	K510100	Cystourethrocele without uterine prolapse
+2285	K510200	Rectocele without uterine prolapse
+37918	K510211	Proctocele without uterine prolapse
+4575	K510300	Urethrocele without uterine prolapse
+22659	K510400	Vaginal prolapse unspecified without uterine prolapse
+17481	K510z00	Vaginal prolapse without uterine prolapse NOS
+1345	K511.00	Uterine prolapse without vaginal wall prolapse
+22757	K511000	First degree uterine prolapse
+6882	K511100	Second degree uterine prolapse
+37790	K511200	Third degree uterine prolapse
+37185	K511z00	Uterine prolapse without vaginal wall prolapse NOS
+7870	K512.00	Uterovaginal prolapse, incomplete
+30419	K512000	Cystocele with first degree uterine prolapse
+12359	K512100	Cystocele with second degree uterine prolapse
+9356	K513.00	Uterovaginal prolapse, complete
+25974	K513000	Cystocele with third degree uterine prolapse
+1057	K514.00	Uterovaginal prolapse, unspecified
+12845	K514000	Cystocele with unspecified uterine prolapse
+10888	K515.00	Post hysterectomy vaginal vault prolapse
+23941	K51y.00	Other genital prolapse
+41895	K51yz00	Other genital prolapse NOS
+33440	K51z.00	Genital prolapse NOS
+42845	K534.00	Prolapse of the ovary and fallopian tube
+3578	K534000	Prolapse of the ovary
+99174	K534z00	Ovarian and fallopian tube prolapse NOS
+97649	Kyu9100	[X]Other female genital prolapse

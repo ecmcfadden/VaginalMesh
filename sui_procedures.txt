@@ -1,0 +1,34 @@
+medcode	readcode	readterm	opcs4
+11197	7B32200	Introduction of tension free vaginal tape	M53.3 
+57283	7B32500	Introduction of transobturator tape	M53.6
+49097	7B32y00	Vaginal operation to support outlet of female bladder OS	M53.8
+48900	7B32z00	Vaginal operation to support outlet of female bladder NOS	M53.8
+33558	7B32.00	Vaginal operations to support outlet of female bladder	M53.8
+60075	7M01100	Insertion of prosthesis into organ NOC	Y02.2
+15696	7B31000	Suprapubic sling operation	M52.1
+21250	7B31011	Aldridge suprapubic sling	M52.1
+4202	7B31200	Colposuspension of bladder neck	M52.3
+36539	7B34200	Endoscopic suburethral injection of inert substance - female	M56.3
+18434	7B34211	Endoscopic suburethral injection of collagen in female	M56.3
+46542	7B34212	Endoscopic suburethral teflon injection in female	M56.3
+51659	7B31.00	Abdominal operations to support outlet of female bladder	M52.8
+97857	7B31y00	Abdominal operation to support outlet of female bladder OS	M52.8
+71003	7B31z00	Abdominal operation to support outlet of female bladder NOS	M52.8
+54329	7B35y00	Other specified other operation on outlet of female bladder	M52.8
+42107	7M31100	Secondary operation NOC	Y71.2
+18256	7M31200	Revisional operation NOC	Y71.3
+45776	7M31700	Second revisional operation NOC	Y71.6
+110714	7M31800	Third or greater revisional operation NOC	Y71.7
+102035	7M02000	Maintenance of prosthesis in organ NOC	Y03.1
+111061	7M02100	Renewal of prosthesis in organ NOC	Y03.2
+60431	7M02600	Correction of displacement of prosthesis NOC	Y03.3
+63624	7M02200	Resiting of prosthesis in organ NOC	Y03.4
+68453	7M02400	Adjustment to prosthesis in organ NOC	Y03.6
+99506	ZV52y00	[V]Fitting or adjustment of other specified prosthesis	Y03.6
+39978	ZV52.00	[V]Fitting and adjustment of prosthesis	Y03.6
+101516	ZV52z00	[V]Fitting or adjustment of unspecified prosthesis	Y03.6
+62250	ZV52.11	[V]Prosthesis adjustment	Y03.6
+70457	7M02y00	Attention to prosthesis NOC OS	Y03.8
+98877	7M02z00	Attention to prosthesis NOC NOS	Y03.9
+29132	7M02.00	Attention to prosthesis NOC	Y03.9
+97037	7B38900	Introduction of transobturator sling	

@@ -1,0 +1,9 @@
+medcode	readcode	readterm
+92169	7B32300	Total removal of tension-free vaginal tape
+85494	7B32400	Partial removal of tension-free vaginal tape
+93869	7B32600	Removal of transobturator tape
+51857	7M02500	Removal of prosthesis from organ NOC
+67686	7M0J800	Removal of other repair material from organ NOC
+49097	7B32y00	Vaginal operation to support outlet of female bladder OS
+48900	7B32z00	Vaginal operation to support outlet of female bladder NOS
+33558	7B32.00	Vaginal operations to support outlet of female bladder

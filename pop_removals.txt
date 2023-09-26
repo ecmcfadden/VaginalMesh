@@ -1,0 +1,17 @@
+medcode	readcode	readterm	opcs4
+8083	7D1Ay00	Other specified other repair of vagina	
+1504	7D1Az00	Other repair of vagina NOS	
+27604	7D19y00	Other specified repair of vault of vagina	P24.8
+28040	7D18z00	Other repair of vaginal prolapse NOS	P23.8
+18606	7D18y00	Other specified other repair of vaginal prolapse	P23.8
+11863	7D18.00	Other repair of vaginal prolapse	P23.8
+97867	7E28y00	Other specified operation on other uterine ligament	Q54.8
+67017	7E28z00	Operation on other uterine ligament NOS	Q54.8
+67686	7M0J800	Removal of other repair material from organ NOC	Y26.4
+		OPCS4 text	
+		Total removal of prosthetic material from previous repair of vaginal prolapse	P28.1
+		Partial removal of prosthetic material from previous repair of vaginal prolapse	P28.2
+		Total removal of prosthetic material from previous repair of vaginal vault prolapse	P30.1
+		Partial removal of prosthetic material from previous repair of vaginal vault prolapse	P30.2
+		Total removal of prosthetic material from previous suspension of uterus	Q54.7
+		Partial removal of prosthetic material from previous suspension of uterus	Q57.1

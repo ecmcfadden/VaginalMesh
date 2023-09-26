@@ -1,0 +1,60 @@
+medcode	readcode	readterm	opcs4
+15911	7	Amputation of cervix uteri	
+28602	7D17.00	Repair of vaginal prolapse and amputation of cervix uteri	
+21695	7D17.11	Colporrhaphy and amputation of cervix uteri	
+7919	7D17000	Ant and post colporrhaphy and amputation of cervix uteri	P22.1
+33955	7D17100	Anterior colporrhaphy and amputation of cervix uteri NEC	P22.2
+4233	7D17111	Fothergill anterior colporrhaphy and amputation of cervix	
+20632	7D17200	Posterior colporrhaphy and amputation of cervix uteri NEC	P22.3
+69708	7D17y00	Repair of vaginal prolapse & amputation of cervix uteri OS	P22.8
+15703	7D17z00	Repair of vaginal prolapse & amputation of cervix uteri NOS	P22.9 
+11863	7D18.00	Other repair of vaginal prolapse	
+2286	7D18.11	Colporrhaphy	
+19050	7D18000	Anterior and posterior colporrhaphy NEC	P23.1
+2447	7D18100	Anterior colporrhaphy NEC	
+3145	7D18200	Posterior colporrhaphy NEC	P23.3
+3420	7D18300	Repair of enterocele NEC	P23.4
+72070	7D18311	McCall repair of enterocele	
+67132	7D18312	Moschowitz repair of enterocele	
+37274	7D18400	Colporrhaphy NEC	
+44748	7D18500	Anterior mesh vaginal repair	
+89963	7D18600	Paravaginal repair	P23.5
+89708	7D18700	Anterior colporrhaphy with mesh reinforcement	P23.6
+84375	7D18800	Posterior colporrhaphy with mesh reinforcement	P23.7
+18606	7D18y00	Other specified other repair of vaginal prolapse	P23.8
+28040	7D18z00	Other repair of vaginal prolapse NOS	P23.9
+17020	7D19.00	Repair of vault of vagina	
+66379	7D19000	Repair vaginal vault combined abdominal & vaginal approach	
+52417	7D19100	Repair of vault of vagina using abdominal approach NEC	
+57237	7D19200	Repair of vault of vagina using vaginal approach NEC	
+16175	7D19300	Sacrocolpopexy	P24.2
+1652	7D19400	Suspension of vagina NEC	
+18931	7D19500	Sacrospinous fixation of vaginal vault	P247
+96345	7D19600	Repair of vault of vagina with mesh using abdominal approach	P24.5
+46339	7D19700	Repair of vault of vagina with mesh using vaginal approach	P24.6
+27604	7D19y00	Other specified repair of vault of vagina	
+48218	7D19z00	Repair of vault of vagina NOS	
+8083	7D1Ay00	Other specified other repair of vagina	
+14874	7E28000	Suspension of uterus	
+3835	7E28011	Gilliam suspension of uterus	
+54641	7E28300	Endoscopic suspension of uterus	
+100058	7E28500	Suspension of uterus using mesh	Q54.4
+90156	7E28600	Suspension of uterus NEC	
+102644	7E28700	Sacrohysteropexy	Q54.5
+103999	7E28800	Infracoccygeal hysteropexy	Q54.6
+42107	7M31100	Secondary operation NOC	Y71.2
+18256	7M31200	Revisional operation NOC	Y71.3
+45776	7M31700	Second revisional operation NOC	Y71.6
+110714	7M31800	Third or greater revisional operation NOC	Y71.7
+102035	7M02000	Maintenance of prosthesis in organ NOC	Y03.1
+111061	7M02100	Renewal of prosthesis in organ NOC	Y03.2
+60431	7M02600	Correction of displacement of prosthesis NOC	Y03.3
+63624	7M02200	Resiting of prosthesis in organ NOC	Y03.4
+68453	7M02400	Adjustment to prosthesis in organ NOC	Y03.6
+99506	ZV52y00	[V]Fitting or adjustment of other specified prosthesis	Y03.6
+39978	ZV52.00	[V]Fitting and adjustment of prosthesis	Y03.6
+101516	ZV52z00	[V]Fitting or adjustment of unspecified prosthesis	Y03.6
+62250	ZV52.11	[V]Prosthesis adjustment	Y03.6
+70457	7M02y00	Attention to prosthesis NOC OS	Y03.8
+98877	7M02z00	Attention to prosthesis NOC NOS	Y03.9
+29132	7M02.00	Attention to prosthesis NOC	Y03.9
